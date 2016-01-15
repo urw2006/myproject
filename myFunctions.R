@@ -3,8 +3,8 @@
 #  Author: Udo Wittmann          #
 #  Version: April 2015           #
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-library(ResourceSelection)
-library(pROC)
+library(ResourceSelection)      # blablabla
+library(pROC)      
 
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #                    FUNCTIONS                                        #
